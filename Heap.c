@@ -3,5 +3,5 @@
 #include<stdlib.h>
 
 int main(){
-    char memory[10000]
+    char memory[10000];
 }
